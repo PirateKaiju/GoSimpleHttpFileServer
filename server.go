@@ -9,7 +9,7 @@ import(
 
 func main(){
 
-	var pathArg = "/var/http/";
+	var pathArg = "/var/www/";
 	var portArg = "3000";
 
 
